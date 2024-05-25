@@ -76,10 +76,18 @@ form textarea {
 }
 
 form button {
-  background: none;
-  border: 2px solid black;
+  background: #007acc;
+  border: none;
+  color: #fff;
   padding: 1rem;
   text-transform: uppercase;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+form button:hover,
+form button:focus{
+  background: #005fa3;
 }
 
 .site-footer {
