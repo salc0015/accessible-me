@@ -92,4 +92,8 @@ form button:focus{
 
 .site-footer {
   padding: 2rem 0;
+  text-align: center;
+  background: #333;
+  color: #fff;
+  margin-top: 2em;
 }
