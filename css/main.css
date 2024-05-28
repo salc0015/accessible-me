@@ -10,7 +10,7 @@ h1,h2,h3,h4,h5,h6 {
   font-family: 'Stick No Bills', 'Roboto', Helvetica, sans-serif;
 }
 
-.skip-link{
+.skip-links{
   position: absolute;
   top: -3em;
   left: 0;
@@ -19,7 +19,7 @@ h1,h2,h3,h4,h5,h6 {
   padding: .5em 1em;
 }
 
-.skip-link:focus{
+.skip-links:focus{
   top: 0;
 }
 
